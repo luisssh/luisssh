@@ -2,7 +2,7 @@
 
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
 
-Me chamo Luís Henrique, sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tecnologia. Atualmente, estou aprofundando meus conhecimentos em **programação web, linguagem C, Python e bancos de dados**. Também desenvolvo projetos voltados para **educação digital infantil** como parte de uma iniciativa acadêmica.
+Me chamo Luís Henrique, sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tecnologia. Atualmente, estou aprofundando meus conhecimentos em **programação web, linguagem C, Python e bancos de dados**. 
 
 <p align="left">
     <a href="https://github.com/luisssh?tab=repositories&sort=stargazers">
