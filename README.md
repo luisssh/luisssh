@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Olá, seja bem-vindo(a) ao meu GitHub!
 
-<!--
-**luisssh/luisssh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Luís Henrique e atualmente sou estudante de **Análise e Desenvolvimento de Sistemas**. Aqui você vai encontrar projetos pessoais, acadêmicos e ideias que estou desenvolvendo ao longo da minha jornada na tecnologia. 
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias e Ferramentas
+- HTML, CSS, JavaScript
+- C, Python, PHP
+- MySQL
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Objetivos atuais
+- Aprimorar minhas habilidades em desenvolvimento web
+- Aprender mais sobre **orientação a objetos com Python**
+- Contribuir com projetos open-source e crescer como desenvolvedor
+
+## 📌 Projetos em destaque
+- 💻 Sistemas simples para web
+
+
+## 💬 Vamos conversar?
+Fique à vontade para explorar meus repositórios, dar sugestões ou até trocar uma ideia.
+
+---
+
+_Em constante aprendizado e sempre pronto para novos desafios._
