@@ -1,29 +1,18 @@
 # 👨🏻‍💻 Luís Henrique
 
-**`Estudante de Análise e Desenvolvimento de Sistemas`**
+👋 Olá, eu sou o Luís Henrique — estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e desenvolvimento de software.
 
-Me chamo Luís Henrique, sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tecnologia. Atualmente, estou aprofundando meus conhecimentos em **programação web, linguagem C, Python e bancos de dados**. 
+Estou focado em aprimorar minhas habilidades em programação web, C, Python e bancos de dados para construir soluções eficientes e inovadoras.
 
-<p align="left">
-    <a href="https://github.com/luisssh?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/luisssh?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/luisssh?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/luisssh?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+📫 Como me encontrar:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luís-henriquelds/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lhlds78@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luisssh)
 
 ---
 
-## 🤖 Tecnologias que utilizo
+## 💻 Tecnologias e ferramentas que estou usando no momento:
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
@@ -52,19 +41,18 @@ Me chamo Luís Henrique, sou estudante de **Análise e Desenvolvimento de Sistem
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=luisssh&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=luisssh&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
   />
-
   <img 
     align="left" 
     alt="Top Langs" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisssh&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisssh&theme=radical&layout=compact&custom_title=Linguagens&langs_count=9" 
   />
 </p>
 
 <br clear="both"/>
 
-
 ---
 
+🔭 Estou sempre aberto a novas oportunidades e desafios. Vamos nos conectar e construir juntos!
