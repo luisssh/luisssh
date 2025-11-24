@@ -47,8 +47,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** com foco em desenvolvime
 
   <img 
     height="170em"
-    src="[https://github-stats-alpha.vercel.app/api/top-langs?username=luisssh&cc=000&tc=fff&ic=fff&langs_count=6](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=luisssh&theme=radical&layout=compact
-)"
+    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=luisssh&theme=radical&layout=compact&langs_count=6"
   />
 </p>
 
