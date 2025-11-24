@@ -1,36 +1,39 @@
-# 👨🏻‍💻 Luís Henrique
+# 👨🏻‍💻 Luís Henrique Lopes de Souza
 
-👋 Olá, eu sou o Luís Henrique — estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e desenvolvimento de software.
-
-Estou focado em aprimorar minhas habilidades em programação web, C, Python e bancos de dados para construir soluções eficientes e inovadoras.
-
-📫 Como me encontrar:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luís-henriquelds/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lhlds78@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luisssh)
+Estudante de **Análise e Desenvolvimento de Sistemas** com foco em desenvolvimento web, backend e bancos de dados. Busco sempre aprimorar minhas habilidades e contribuir com soluções práticas e bem estruturadas.
 
 ---
 
-## 💻 Tecnologias e ferramentas que estou usando no momento:
+## 🛠️ Habilidades Técnicas
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
-</p>
+### **Linguagens**
+- PHP  
+- C  
+- Python  
+- JavaScript  
+- C# / .NET  
+
+### **Frameworks e Ferramentas**
+- Laravel  
+- Alpine.js  
+- HTML & CSS  
+- Docker (noções básicas)  
+- Visual Studio Code  
+
+### **Banco de Dados**
+- MySQL  
+- PostgreSQL  
+
+### **Backend & APIs**
+- Desenvolvimento de APIs RESTful  
+- ASP.NET Core + Entity Framework Core  
+
+### **Versionamento**
+- Git / GitHub  
+
+### **Metodologias Ágeis**
+- Scrum  
+- Kanban  
 
 ---
 
@@ -38,21 +41,19 @@ Estou focado em aprimorar minhas habilidades em programação web, C, Python e b
 
 <p>
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=luisssh&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
+    height="170em"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=luisssh&show_icons=true&theme=radical&locale=pt-br"
   />
   <img 
-    align="left" 
-    alt="Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisssh&theme=radical&layout=compact&custom_title=Linguagens&langs_count=9" 
+    height="170em"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=luisssh&layout=compact&theme=radical"
   />
 </p>
 
-<br clear="both"/>
-
 ---
 
-🔭 Estou sempre aberto a novas oportunidades e desafios. Vamos nos conectar e construir juntos!
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luís-henriquelds/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lhlds78@gmail.com)
+
