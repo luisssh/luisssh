@@ -42,13 +42,16 @@ Estudante de **Análise e Desenvolvimento de Sistemas** com foco em desenvolvime
 <p>
   <img 
     height="170em"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=luisssh&show_icons=true&theme=radical&locale=pt-br"
+    src="https://github-stats-alpha.vercel.app/api?username=luisssh&cc=000&tc=fff&ic=fff"
   />
+
   <img 
     height="170em"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=luisssh&layout=compact&theme=radical"
+    src="[https://github-stats-alpha.vercel.app/api/top-langs?username=luisssh&cc=000&tc=fff&ic=fff&langs_count=6](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=luisssh&theme=radical&layout=compact
+)"
   />
 </p>
+
 
 ---
 
